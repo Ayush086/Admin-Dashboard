@@ -11,7 +11,8 @@ Welcome to the Admin Dashboard repository! This project is a responsive admin da
 
 ## Usage
 
-To use this admin dashboard, simply clone the repository and open the `index.html` file in your web browser. You can also customize the dashboard to fit your specific needs by modifying `style.css` and `script.js` files.
+- To use this admin dashboard, simply clone the repository and open the `index.html` file in your web browser. You can also customize the dashboard to fit your specific needs by modifying `style.css` and `script.js` files.
+- NOTE: Please ensure that the image paths in the HTML and CSS files are set correctly to display all images properly.
 
 ## Contributing
 
